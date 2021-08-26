@@ -1,1 +1,2 @@
-#init
+# ignore compilation results
+*.bin

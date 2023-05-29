@@ -1,0 +1,6 @@
+# Default
+* text=auto
+
+# Linux
+*.sh text eol=lf
+*.bash text eol=lf
